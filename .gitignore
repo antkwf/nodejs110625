@@ -1,0 +1,2 @@
+#ignore non essential files / folders 
+node_modules/
